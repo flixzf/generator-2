@@ -259,6 +259,3 @@ root.render(
   </React.StrictMode>
 ); 
 
-
-git config user.email "kdh@skorstudio.com"
-git config user.name "flixzf"
